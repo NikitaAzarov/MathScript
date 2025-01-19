@@ -24,6 +24,181 @@ void token_print(Token* token);
 
 
 
+Here’s the structure of a 20-minute presentation on the topic of the Stuxnet worm:
+
+Slide 1: Title
+	•	Topic: The Stuxnet Worm: History, Features, and Impact
+	•	Subtitle: “A New Era of Cyberwarfare”
+	•	Presenter’s Name and Date.
+
+Slide 2: Introduction
+	•	What is Stuxnet?
+	•	A malicious computer worm designed for cyberattacks.
+	•	Why is it important?
+	•	Stuxnet was the first known cyberweapon to target and destroy physical infrastructure.
+	•	Goals of the presentation:
+	•	Explore the history, technical features, and consequences of Stuxnet.
+
+Slide 3: History of Stuxnet
+	•	Development and spread:
+	•	Allegedly created by the U.S. and Israel (Operation “Olympic Games”).
+	•	Emerged between 2009 and 2010.
+	•	Target: Iran’s nuclear program (uranium enrichment facilities).
+	•	Objective: Sabotage centrifuges at the Natanz facility.
+
+Slide 4: How Stuxnet Works
+	•	Attack vector:
+	•	Initial penetration via USB drives.
+	•	Exploitation of zero-day vulnerabilities in Windows.
+	•	Target system:
+	•	Siemens programmable logic controllers (PLCs).
+	•	Mechanism:
+	•	Modifies operational parameters of equipment, causing physical damage.
+
+Slide 5: Technical Features
+	•	Complexity:
+	•	Written in multiple programming languages.
+	•	Over 15,000 lines of code.
+	•	Self-defense mechanisms:
+	•	Ability to conceal its presence.
+	•	Highly targeted to minimize collateral damage.
+	•	Spread:
+	•	Self-replicating through networks and devices.
+
+Slide 6: Impact on Iran
+	•	Effects of the attack:
+	•	Approximately 1,000 centrifuges damaged.
+	•	Delayed Iran’s nuclear program by several years.
+	•	Iran’s response:
+	•	Strengthened cybersecurity.
+	•	Accelerated development of its own cyber capabilities.
+
+Slide 7: Global Reaction
+	•	Perception of Stuxnet:
+	•	Seen as a turning point in cyberwarfare.
+	•	Sparked ethical and legal debates.
+	•	Rise of cyberweapons:
+	•	Motivated other nations to develop cyber units.
+
+Slide 8: Consequences for Cybersecurity
+	•	Vulnerability of infrastructure:
+	•	Industrial systems were unprepared for such attacks.
+	•	Growth of cyberattacks:
+	•	Inspired other malware like Duqu and Flame.
+	•	Lessons for the IT industry:
+	•	Increased focus on protecting critical infrastructure.
+
+Slide 9: Ethics of Cyberweapons
+	•	Key question:
+	•	Is it ethical to develop programs capable of harming physical systems?
+	•	Potential consequences:
+	•	Escalation of conflicts.
+	•	Risk of civilian casualties from cyberattacks.
+
+Slide 10: Conclusion
+	•	Key takeaways:
+	•	Stuxnet marked the beginning of a new era in cyberwarfare.
+	•	Demonstrated the power of cyberweapons and the vulnerability of modern systems.
+	•	Discussion points:
+	•	How can we prevent similar attacks in the future?
+
+Extras:
+	1.	Video animation: Show how Stuxnet disrupted centrifuges.
+	2.	Infographic: Illustrate the worm’s path of infection.
+	3.	Q&A: Leave 3–5 minutes for audience questions.
+
+Let me know if you’d like help creating slides or expanding specific parts!
+
+
+
+להלן מבנה מצגת של 20 דקות על נושא התולעת Stuxnet:
+
+שקופית 1: כותרת
+	•	נושא: תולעת Stuxnet: היסטוריה, מאפיינים והשפעות
+	•	תת-כותרת: “עידן חדש של לוחמה קיברנטית”
+	•	שם המציג ותאריך.
+
+שקופית 2: מבוא
+	•	מהי Stuxnet?
+	•	תולעת זדונית שפותחה למתקפות סייבר.
+	•	למה זה חשוב?
+	•	Stuxnet הייתה הנשק הקיברנטי הראשון שנועד לפגוע בתשתיות פיזיות.
+	•	מטרות המצגת:
+	•	להכיר את ההיסטוריה, המאפיינים הטכניים וההשפעות של Stuxnet.
+
+שקופית 3: ההיסטוריה של Stuxnet
+	•	פיתוח והפצה:
+	•	פותחה לכאורה על ידי ארה”ב וישראל (מבצע “משחקים אולימפיים”).
+	•	הופיעה בין השנים 2009–2010.
+	•	מטרה: תוכנית הגרעין האיראנית (מתקני העשרת אורניום).
+	•	יעד: שיבוש פעילות הצנטריפוגות במתקן בנתנז.
+
+שקופית 4: איך Stuxnet פועלת?
+	•	וקטור התקיפה:
+	•	חדירה ראשונית דרך כונני USB.
+	•	ניצול חולשות אבטחה (“Zero-Day”) במערכת ההפעלה Windows.
+	•	המערכת המותקפת:
+	•	בקרי לוגיקה מתוכנתים (PLCs) של Siemens.
+	•	מנגנון הפעולה:
+	•	שינוי פרמטרים תפעוליים של הציוד שגורם לנזק פיזי.
+
+שקופית 5: מאפיינים טכניים
+	•	רמת מורכבות:
+	•	נכתבה בשפות תכנות שונות.
+	•	כוללת מעל 15,000 שורות קוד.
+	•	מנגנוני הגנה עצמית:
+	•	יכולת להסתיר את נוכחותה.
+	•	תקיפה ממוקדת שמפחיתה נזק משני.
+	•	יכולת הפצה:
+	•	מתפשטת באופן עצמאי דרך רשתות ומכשירים.
+
+שקופית 6: ההשפעה על איראן
+	•	תוצאות המתקפה:
+	•	כ-1,000 צנטריפוגות הושבתו.
+	•	עיכוב תוכנית הגרעין האיראנית בכמה שנים.
+	•	תגובת איראן:
+	•	חיזוק אבטחת הסייבר.
+	•	פיתוח מואץ של יכולות סייבר עצמאיות.
+
+שקופית 7: תגובת העולם
+	•	איך Stuxnet נתפסה:
+	•	הוכרה כנקודת מפנה בלוחמה קיברנטית.
+	•	עוררה דיונים אתיים ומשפטיים.
+	•	עליית נשקי הסייבר:
+	•	הניעה מדינות נוספות לפתח יחידות סייבר.
+
+שקופית 8: השלכות על אבטחת הסייבר
+	•	פגיעות התשתיות:
+	•	מערכות תעשייתיות לא היו מוכנות למתקפות מסוג זה.
+	•	גידול במתקפות סייבר:
+	•	הולידה תולעים נוספות כמו Duqu ו-Flame.
+	•	לקחים לתעשיית ה-IT:
+	•	התמקדות רבה יותר בהגנה על תשתיות קריטיות.
+
+שקופית 9: אתיקה של נשקי סייבר
+	•	השאלה המרכזית:
+	•	האם זה אתי לפתח תוכנות שעלולות לפגוע בתשתיות פיזיות?
+	•	השלכות אפשריות:
+	•	הסלמת עימותים.
+	•	סיכון לפגיעה באזרחים כתוצאה ממתקפות סייבר.
+
+שקופית 10: סיכום
+	•	מסקנות עיקריות:
+	•	Stuxnet סימנה את תחילתו של עידן חדש בלוחמה קיברנטית.
+	•	הוכיחה את עוצמת נשקי הסייבר ואת פגיעות המערכות המודרניות.
+	•	נקודות לדיון:
+	•	איך ניתן למנוע מתקפות דומות בעתיד?
+
+תוספות:
+	1.	אנימציה ויזואלית: להציג כיצד Stuxnet פגעה בצנטריפוגות.
+	2.	אינפוגרפיקה: המחשה של מסלול התפשטות התולעת.
+	3.	שאלות ותשובות: להשאיר 3–5 דקות לשאלות מהקהל.
+
+אם אתה צריך עזרה בהכנת השקופיות או הרחבה של חלק מסוים, תגיד לי!
+
+
+
+
 - сумма времени в перемену по курсу
 - кто самое много выходил и мало по времени 
 - кто самое много выходил и мало по количеству выходов
