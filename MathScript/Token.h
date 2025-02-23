@@ -22,6 +22,31 @@ typedef struct Token {
 Token* token_initialize(TokenType type, char* value);
 void token_print(Token* token);
 
+שבוע טוב חברים💚🐨
+מבקשים שמי שיודע שיאחר מחר, יוסיף אותו לרשימה: 
+
+רשימת מאחרים צפוניים:
+טל וימסנר
+רוני כהן
+יעל שינה
+נוי טדגי
+אוהד מרמור
+אורי מזרחי
+עמית ישראל
+תומר קניס
+מיכאל
+
+רשימת מאחרים דרומיים (אילתיים):
+דוד מאור
+קרין כהן
+
+רשימת מאחרים כללי:
+עידן גור
+ליאור וידס
+הראל
+ניתאי
+
+
 3.
 - הגענו להחלטה שצריך לעשות התקפת סייבר על המפעלים הגרעיניים בנתאנז
 - רשת סגורה 
